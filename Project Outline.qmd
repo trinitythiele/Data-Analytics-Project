@@ -15,10 +15,8 @@ library(dplyr)
 library(ggplot2)  
 ```
 
-## Import Data Set
-
 ```{r}
-# Read CSV file 
+# Global variable dataset is renamed to data for easier reference
 data <- Sleep_Health_and_Lifestyle_Dataset
 ```
 
