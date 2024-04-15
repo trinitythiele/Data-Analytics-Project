@@ -19,7 +19,7 @@ library(ggplot2)
 
 ```{r}
 # Read CSV file 
-data <- read.csv("C:\\Users\\ttthi\\OneDrive\\Documents\\CSC_435_DataAnalytics\\Our_Dataset.csv")
+data <- Sleep_Health_and_Lifestyle_Dataset
 ```
 
 Using head(data) displays the first few rows of the dataset, providing a quick glimpse of the data structure and values.
