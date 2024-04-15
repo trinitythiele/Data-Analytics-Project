@@ -33,7 +33,7 @@ summary(data)
 
 
 view(data)
-# does this automatically change
+# I am making a change
 ```
 
 In reviewing the initial dataset output from the `head(data)` command, I've decided to categorize the variables into two main types: categorical and continuous.
